@@ -1,0 +1,10 @@
+site_name: Neo Wiki
+
+nav:
+  - Home: index.md
+  - About: 
+      - Overview: about.md
+      - Features: features.md
+
+theme:
+  name: material
