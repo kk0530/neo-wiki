@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://kk0530.github.io/neo-wiki/about/</loc>
+         <loc>https://kk0530.github.io/neo-wiki/0_Home/</loc>
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
-         <loc>https://kk0530.github.io/neo-wiki/features/</loc>
+         <loc>https://kk0530.github.io/neo-wiki/0_Home/about/</loc>
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
-         <loc>https://kk0530.github.io/neo-wiki/0_Home/Home/</loc>
+         <loc>https://kk0530.github.io/neo-wiki/0_Home/features/</loc>
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
-         <loc>https://kk0530.github.io/neo-wiki/1_Class/11_Work/work/</loc>
+         <loc>https://kk0530.github.io/neo-wiki/1_Class/11_Work/Work/</loc>
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
@@ -81,7 +81,7 @@
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
-         <loc>https://kk0530.github.io/neo-wiki/1_Class/15_Daytable/%E6%97%A5%E8%A1%A8%E3%81%AE%E8%A6%8B%E6%96%B9/</loc>
+         <loc>https://kk0530.github.io/neo-wiki/1_Class/15_Daytable/Daytable/</loc>
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
@@ -177,23 +177,23 @@
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
-         <loc>https://kk0530.github.io/neo-wiki/2_Teaching/22_Textbook/Juniorhigh/%E5%9B%BD%E8%AA%9E/</loc>
+         <loc>https://kk0530.github.io/neo-wiki/2_Teaching/22_Textbook/Juniorhigh/English/</loc>
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
-         <loc>https://kk0530.github.io/neo-wiki/2_Teaching/22_Textbook/Juniorhigh/%E6%95%B0%E5%AD%A6/</loc>
+         <loc>https://kk0530.github.io/neo-wiki/2_Teaching/22_Textbook/Juniorhigh/Japanese/</loc>
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
-         <loc>https://kk0530.github.io/neo-wiki/2_Teaching/22_Textbook/Juniorhigh/%E7%90%86%E7%A7%91/</loc>
+         <loc>https://kk0530.github.io/neo-wiki/2_Teaching/22_Textbook/Juniorhigh/Math/</loc>
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
-         <loc>https://kk0530.github.io/neo-wiki/2_Teaching/22_Textbook/Juniorhigh/%E7%A4%BE%E4%BC%9A/</loc>
+         <loc>https://kk0530.github.io/neo-wiki/2_Teaching/22_Textbook/Juniorhigh/Science/</loc>
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
-         <loc>https://kk0530.github.io/neo-wiki/2_Teaching/22_Textbook/Juniorhigh/%E8%8B%B1%E8%AA%9E/</loc>
+         <loc>https://kk0530.github.io/neo-wiki/2_Teaching/22_Textbook/Juniorhigh/Social/</loc>
          <lastmod>2024-11-20</lastmod>
     </url>
     <url>
